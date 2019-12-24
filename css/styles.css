@@ -19,6 +19,7 @@ html {
 }
 
 body {
+  background-color: #D18D81;
   color: #343434;
   margin: 0;
   padding: 0;
@@ -114,6 +115,19 @@ header {
   background: #E8BCB4;
 }
 
+
+.button {
+  background-color: #6D4B45;
+  color: #E8BCB4;
+  padding: 26px 42px;
+  border:none;
+}
+
+.button:hover {
+  background-color: #E8BCB4;
+  color: #6D4B45;
+  border:none;
+}
 
 
 /* Education
